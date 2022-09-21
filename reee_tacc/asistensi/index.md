@@ -21,4 +21,4 @@ If your group gave up solving the problem, you can still contact me and do "asis
 ### Accessing B201Judge
 - If you are using ITS networks, 10.3.142.82
 
-- If you are not using ITS networks, https://breezy-flowers-look-103-94-190-18.loca.lt <- this link however is subject to change anytime, so it might not work.
+- If you are not using ITS networks, [LINK](https://breezy-flowers-look-103-94-190-18.loca.lt) <- this link however is subject to change anytime, so it might not work.
