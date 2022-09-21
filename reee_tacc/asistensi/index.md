@@ -10,7 +10,7 @@ Each group must solve at least one (ofc you can solve more..) of the unsolved pr
 more will be added later..
 
 Submit your solution to B201Judge and pick the reee_tacc assignment.
-If you got it correct, you can contact me on [whatsapp](https://wa.me/681327522023), tell me who from your group that solved the problem then we will pick a date to do the "asistensi". The more you solve, the better the chance of your group getting the full score.
+If you got it correct, you can contact me on [whatsapp](https://wa.me/6281327522023), tell me who from your group that solved the problem then we will pick a date to do the "asistensi". The more you solve, the better the chance of your group getting the full score.
 
 If the problems doesn't exist on reee_tacc assignment yet, you can submit your code to solang.dion@gmail.com. If it's not replied within 1 days, then please remind me through whatsapp.
 
