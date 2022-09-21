@@ -4,7 +4,7 @@ Each group must solve at least one (ofc you can solve more..) of the unsolved pr
 
 - [printf](/reee_tacc/asistensi/problems/printf/index.html)
 - [printf on steroid](/reee_tacc/asistensi/problems/printfonsteroid/index.html)
-- [printfonsteroid](/reee_tacc/asistensi/problems/printfonfingsteroid/index.html)
+- [printf on f-ing steroid](/reee_tacc/asistensi/problems/printfonfingsteroid/index.html)
 - [epln](/reee_tacc/asistensi/problems/epln/index.html)
 
 more will be added later..
