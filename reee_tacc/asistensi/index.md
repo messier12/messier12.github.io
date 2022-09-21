@@ -21,4 +21,16 @@ If your group gave up solving the problem, you can still contact me and do "asis
 ### Accessing B201Judge
 - If you are using ITS networks, 10.3.142.82
 
-- If you are not using ITS networks, [LINK](https://breezy-flowers-look-103-94-190-18.loca.lt) <- this link however is subject to change anytime, so it might not work.
+- If you are not using ITS networks, [LINK](https://eight-camels-hunt-103-94-190-18.loca.lt) <- this link however is subject to change anytime, so it might not work.
+
+## Tugas Asistensi
+If you were able to solve at least one problem, then just write the title of that problem on your "Tugas Asistensi" page.
+
+If you were not able to solve it, then do the following according to the practicum stage you are in right now.
+
+| Practicum| Tugas Asistensi|
+|----------|----------------|
+|    P1    | Write the printf function in assembly then explain what it does on each line of code.  |
+|    P2    | TBA    |
+|    P4    | TBA  |
+|    P3    | TBA  |
