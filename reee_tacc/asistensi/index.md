@@ -2,9 +2,9 @@
 
 Each group must solve at least one (ofc you can solve more..) of the unsolved problems below:
 
-- [printf](/reee_tacc/asistensi/problems/printf/index.html)
-- [printf on steroid](/reee_tacc/asistensi/problems/printfonsteroid/index.html)
-- [printf on f-ing steroid](/reee_tacc/asistensi/problems/printfonfingsteroid/index.html)
+- [printf](/reee_tacc/asistensi/problems/printf/index.html) (Solved)
+- [printf on steroid](/reee_tacc/asistensi/problems/printfonsteroid/index.html) (Solved)
+- [printf on f-ing steroid](/reee_tacc/asistensi/problems/printfonfingsteroid/index.html) (Solved)
 - [epln](/reee_tacc/asistensi/problems/epln/index.html)
 
 more will be added later..
