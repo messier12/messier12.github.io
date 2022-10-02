@@ -8,7 +8,7 @@ Each group must solve at least one (ofc you can solve more..) of the unsolved pr
 > these three problems above are just for testing the waters, real shits starts here, good luck:
 - [epln](/reee_tacc/asistensi/problems/epln/index.html)
 - [romantoarabic](/reee_tacc/asistensi/problems/romantoarabic/index.html)
-- [lazyproblem](/reee_tacc/asistensi/problems/lazyproblem/index.html)
+- [lazyproblem](/reee_tacc/asistensi/problems/lazyproblem/index.html) (Solved by Nehemy Davis TB04)
 - [onetwofive](/reee_tacc/asistensi/problems/onetwofive/index.html)
 - [pizzasosig](/reee_tacc/asistensi/problems/pizzasosig/index.html)
 
