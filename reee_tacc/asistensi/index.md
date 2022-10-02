@@ -1,4 +1,6 @@
 ## Collection de problèmes de reee_tacc
+> Announcement
+> Information about prize can be seen [here](#prize)
 
 Each group must solve at least one (ofc you can solve more..) of the unsolved problems below:
 
@@ -39,3 +41,15 @@ If you were not able to solve it, then do the following according to the practic
 |    P2    | Create a summary of this [video](https://www.youtube.com/watch?v=0TTyPvhRZOw)|
 |    P3    | TBA  |
 |    P4    | TBA  |
+
+
+
+## Prize
+
+There will be prize for the one who solved all problems first (by all, I meant also with future problems. You will know the problems will not be updated anymore when the clause "more will be added later.." is gone). 
+
+
+The prize is a Kenedy Space Center hologram bookmarker that came straight from the land of the free. :us: :gun: :dollar: :eagle: :dollar: :gun: :us:
+
+![prize](/reee_tacc/asistensi/prize.gif)
+
