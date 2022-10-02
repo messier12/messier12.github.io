@@ -22,5 +22,5 @@ The input is an integer less than 1000 greater than 0 and will not contain any 3
 ```
 ### Output 2
 ```
-15
+16
 ```
