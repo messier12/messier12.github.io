@@ -1,4 +1,4 @@
-# One two five?
+# One two five? Where is the rest of them?
 
 Gura forgot about the number 3 and 4, so now she counts like this.
 1 2 5 6 7 8 9 10 11 12 15 16 17 18 19 20 ... 28 29 50 51 52 55 ...
