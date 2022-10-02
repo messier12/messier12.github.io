@@ -11,7 +11,8 @@ Each group must solve at least one (ofc you can solve more..) of the unsolved pr
 - [epln](/reee_tacc/asistensi/problems/epln/index.html)
 - [romantoarabic](/reee_tacc/asistensi/problems/romantoarabic/index.html)
 - [lazyproblem](/reee_tacc/asistensi/problems/lazyproblem/index.html) (Solved by Nehemy Davis TB04)
-- [onetwofive](/reee_tacc/asistensi/problems/onetwofive/index.html)
+- [onetwofive](/reee_tacc/asistensi/problems/onetwofive/index.html) (Solved by TB06)
+- [onetwofive2](/reee_tacc/asistensi/problems/onetwofive2/index.html)
 - [pizzasosig](/reee_tacc/asistensi/problems/pizzasosig/index.html)
 
 more will be added later..
