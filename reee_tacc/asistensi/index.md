@@ -9,7 +9,7 @@ Each group must solve at least one (ofc you can solve more..) of the unsolved pr
 - [printf on f-ing steroid](/reee_tacc/asistensi/problems/printfonfingsteroid/index.html) (Solved)
 > these three problems above are just for testing the waters, real shits starts here, good luck:
 - [epln](/reee_tacc/asistensi/problems/epln/index.html)
-- [romantoarabic](/reee_tacc/asistensi/problems/romantoarabic/index.html)
+- [romantoarabic](/reee_tacc/asistensi/problems/romantoarabic/index.html) (Solved by Guardian Armananta TE32)
 - [lazyproblem](/reee_tacc/asistensi/problems/lazyproblem/index.html) (Solved by Nehemy Davis TB04)
 - [onetwofive](/reee_tacc/asistensi/problems/onetwofive/index.html) (Solved by TB06)
 - [onetwofive2](/reee_tacc/asistensi/problems/onetwofive2/index.html)
