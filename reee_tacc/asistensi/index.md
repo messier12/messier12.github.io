@@ -13,7 +13,7 @@ Each group must solve at least one (ofc you can solve more..) of the unsolved pr
 - [lazyproblem](/reee_tacc/asistensi/problems/lazyproblem/index.html) (Solved by Nehemy Davis TB04)
 - [onetwofive](/reee_tacc/asistensi/problems/onetwofive/index.html) (Solved by TB06)
 - [onetwofive2](/reee_tacc/asistensi/problems/onetwofive2/index.html)
-- [pizzasosig](/reee_tacc/asistensi/problems/pizzasosig/index.html)
+- [pizzasosig](/reee_tacc/asistensi/problems/pizzasosig/index.html) (Solved by Sri Nazha Soenarjo TE50)
 
 more will be added later..
 
