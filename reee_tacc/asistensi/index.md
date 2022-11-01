@@ -40,7 +40,7 @@ If you were not able to solve it, then do the following according to the practic
 |----------|----------------|
 |    P1    | Write the printf function in assembly then explain what it does on each line of code.  |
 |    P2    | Create a summary of this [video](https://www.youtube.com/watch?v=0TTyPvhRZOw)|
-|    P3    | TBA  |
+|    P3    | Explain what is Complexity Analysis in algorithm and gives example on how to calculate them on bubble sort and Binary Search  |
 |    P4    | TBA  |
 
 
